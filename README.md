@@ -12,7 +12,7 @@ Administració de Sistemes Informàtics en la Xarxa
 -------------------------------------------------
 [GBD-UF3: Gestió de bases de dades, UF3](https://jrodr236.github.io/GBD-UF3/)
 
-[ABD-UF2: Administració de bases de dades, UF2](https://jrodr236.github.io/ADB-UF2/)
+[ABD-UF2: Administració de bases de dades, UF2](https://jrodr236.github.io/ABD-UF2/)
 
 *IAW-UF2: Implantació d'aplicacions web, UF2*
 
