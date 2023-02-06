@@ -25,3 +25,4 @@ AsixMp09Uf02 - Implantació d'aplicacions web, UF2
 
 [#AsixMp01 #DamMp01 #DawMp01 - Implantació de sistemes operatius  / Sistemes informàtics](https://drive.google.com/drive/folders/1wrZNm7XTrdL9qvDuDebyAVczY2M1XvIH?usp=sharing)
 
+[Python](https://jrodr236.github.io/python/)
