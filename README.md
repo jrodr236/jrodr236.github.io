@@ -4,6 +4,8 @@ Material docent compartit per impartir mòduls dels cicles formatius de la famí
 ----------------------------------
 [#SmxMp02 - Sistemes Operatius Monolloc](https://jrodr236.github.io/SOM/)
 
+[#SmxMp07 - Serveis de xarxa](https://drive.google.com/drive/folders/1phXdWmPD4UUFu_FOdzG9aKWrF8VxmPa5?usp=drive_link)
+
 [#SmxMp05 - Xarxes Locals](http://alexandria.xtec.cat/course/info.php?id=171)
 
 
