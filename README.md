@@ -6,6 +6,8 @@ Material docent compartit per impartir mòduls dels cicles formatius de la famí
 
 [#SmxMp07 - Serveis de xarxa](https://drive.google.com/drive/folders/1phXdWmPD4UUFu_FOdzG9aKWrF8VxmPa5?usp=drive_link)
 
+[#SmxMp08 - Aplicacions web](https://jrodr236.github.io/AW/)
+
 [#SmxMp05 - Xarxes Locals](http://alexandria.xtec.cat/course/info.php?id=171)
 
 
@@ -19,8 +21,6 @@ Material docent compartit per impartir mòduls dels cicles formatius de la famí
 [#AsixMp02Uf03 - Gestió de bases de dades, UF3](https://jrodr236.github.io/GBD-UF3/)
 
 [#AsixMp10Uf02 - Administració de bases de dades, UF2](https://jrodr236.github.io/ABD-UF2/)
-
-AsixMp09Uf02 - Implantació d'aplicacions web, UF2
 
 
 #Dam - Sistemes de gestió empresarial
