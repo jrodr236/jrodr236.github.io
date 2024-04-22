@@ -1,4 +1,4 @@
-Material docent compartit per impartir mòduls dels cicles formatius de la família d'informàtica i comunicacions - **[#FpInfor](https://profesinformatica.github.io/FpInfor/)**
+Material docent compartit - **[#FpInfor](https://profesinformatica.github.io/FpInfor/)**
 
 #Smx - Sistemes Microinformàtics i Xarxes
 ----------------------------------
@@ -23,9 +23,9 @@ Material docent compartit per impartir mòduls dels cicles formatius de la famí
 [#AsixMp10Uf02 - Administració de bases de dades, UF2](https://jrodr236.github.io/ABD-UF2/)
 
 
-#Dam - Sistemes de gestió empresarial
+#Dam - Desenvolupament d'aplicacions multiplataforma
 -------------------------------------
-[#DamMp10 - Introducció a Python](https://jrodr236.github.io/python/)
+[#DamMp10 - Introducció a Python (SGE)](https://jrodr236.github.io/python/)
 
 
 #Asix / #Dam / #Daw
@@ -34,3 +34,8 @@ Material docent compartit per impartir mòduls dels cicles formatius de la famí
 [#AsixMp01 #DamMp01 #DawMp01 - Implantació de sistemes operatius  / Sistemes informàtics](https://drive.google.com/drive/folders/1wrZNm7XTrdL9qvDuDebyAVczY2M1XvIH?usp=sharing)
 
 [#AsixMp04 #DamMp04 #DawMp04 - Llenguatges de marques i sistemes d'informació](https://jrodr236.github.io/LMSGI/)
+
+
+Cicles Formatius
+------
+[Capacitats clau, programació + implementació a l'aula](https://sites.google.com/xtec.cat/capacitats-clau)
